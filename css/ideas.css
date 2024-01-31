@@ -1,0 +1,26 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	background-color: #A98CFF;
+	color: #5B2099;
+}
+
+h1 {
+	font-family: "Mate", serif;
+	font-size: 75px;
+}
+
+h2{
+	font-family: "Mate", serif;
+	font-size: 50px;
+}
+
+p{
+	font-family: "Saira", sans-serif;
+	font-size: 25px;
+}
+
+a{
+	font-family: "Saira", sans-serif;
+	font-size: 25px;
+}
