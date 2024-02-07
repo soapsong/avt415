@@ -1,0 +1,43 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	font-family: "Montserrat", sans-serif;
+	background-color: antiquewhite;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 75px;
+}
+
+h1 {
+	font-family: "Song Myung", serif;
+	color: #A60608;
+	font-size: 75px;
+	text-align: center;
+}
+
+h6{
+	color: #565656;
+	font-weight: normal;
+	font-size: 15px;
+}
+
+h2{
+	font-family: "Song Myung", serif;
+	color: #5F91DE;
+	font-size: 50px;
+}
+
+p{
+	color: #565656;
+	font-size: 20px;
+}
+
+span{
+	font-weight: bold;
+}
+
+a{
+	color:#A60608;
+}
+
