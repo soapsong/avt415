@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	font-family: "Faustina", serif;
+	background-color: #FFA7CC; 
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+h1{
+	color:#920002;
+	font-size: 75px;
+}
+
+h2{
+	color:#650002;
+	font-size: 50px;
+}
+
+p{
+	color:#3E3437;
+	font-size: 25px;
+}
