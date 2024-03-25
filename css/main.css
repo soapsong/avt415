@@ -4,27 +4,35 @@
 html {font-size: 100%;} /*16px*/
 
 body {
-  background-color: #95c799;
-  color: #336637;
-  margin: 0;
-  padding: 50px;
-  line-height: 1.75;
+	color: #336637;
+	line-height: 1.75;
+	background-image: url("gingham.jpeg");
+	text-align: center;
+	
 }
+
 h1 {
-
-  font-size: 5em;
+	font-size: 40pt;
 }
 
-h2 {font-size: 3em;
-
+h2 {
+	font-size: 25pt;
 }
 
-h4 {font-size: 1.5em;
-margin-top: 0;
-
+h4 {
+	font-size: 20pt;
 }
 
 dt {
-	font-size: 2em;
+	font-size: 25pt;
 	font-weight: bold;
+}
+
+dd {
+	font-size: 12pt;
+}
+
+a {
+	font-size:12pt;
+	color: #336637;
 }
